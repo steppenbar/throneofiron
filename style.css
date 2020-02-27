@@ -1,0 +1,42 @@
+body {
+    font-family: 'Josefin Slab', serif;
+    background-image: url(http://1.1m.yt/9t6Gx8e.png);
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 64px;
+  }
+  
+  p {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  #generate-btn {
+    --margin-left: 25px;
+    font-size: 20px;
+  }
+  
+  .lyric-section {
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .panel-footer {
+    font-style: italic;
+    font-size: 20px;
+  }
+  
+  #share {
+    text-align: center;
+  }
+  
+  .col-centered {
+    float: none;
+    margin-left: 45%;
+  }
